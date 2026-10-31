@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Security scan reports
+gitleaks-report.json
+scan2.json
+
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.streamlit/secrets/
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+.pytest_cache/
+
+# Sample data
+!sample_data/
+!sample_data/sample_jd.txt
+!sample_data/sample_resume.pdf

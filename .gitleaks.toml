@@ -1,0 +1,11 @@
+
+[allowlist]
+description = "Exclude generated and virtual environment files"
+paths = [
+  '''^venv/''',
+  '''^__pycache__/''',
+  '''^.*__pycache__/''',
+  '''^\.git/''',
+  '''^gitleaks-report\.json$''',
+  '''^scan2\.json$'''
+]

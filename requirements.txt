@@ -1,0 +1,6 @@
+streamlit>=1.30
+pdfplumber>=0.10
+scikit-learn>=1.3
+pandas>=1.5
+# Optional - semantic matching (Phase 3). Uncomment to enable:
+# sentence-transformers>=2.2

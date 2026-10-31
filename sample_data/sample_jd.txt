@@ -1,0 +1,12 @@
+Junior Machine Learning Engineer
+
+We are looking for a Machine Learning Engineer to build and deploy NLP models.
+
+Requirements:
+- Strong Python and SQL skills
+- Experience with machine learning, scikit-learn, pandas and numpy
+- Hands-on with Docker and AWS; Kubernetes is a plus
+- Knowledge of REST APIs, FastAPI or Flask
+- Familiarity with Git, CI/CD and agile teams
+- Good communication and problem solving skills
+- Experience with PyTorch or TensorFlow is a bonus; NLP experience required
