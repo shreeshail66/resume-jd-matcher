@@ -123,17 +123,6 @@ Tip: tick **"Try with sample resume + job description"** for an instant demo usi
 
 ---
 
-## 📸 Screenshots
-
-<!-- Add your screenshots to a /screenshots folder and update the paths below -->
-<!--
-![Home screen](screenshots/home.png)
-![Skill-Evidence Map](screenshots/evidence-map.png)
-![Interview questions](screenshots/questions.png)
--->
-
----
-
 ## 🧪 Tests
 
 ```bash
